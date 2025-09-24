@@ -115,6 +115,7 @@ int main(int argc, char* argv[]) {
                      cv::BORDER_REFLECT);
     }
 
+    // Save output videos
     // outputVideo << stablized;
     // rawVideo << frame;
 
